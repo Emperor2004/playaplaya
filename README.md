@@ -1,4 +1,4 @@
-# playaplaya
+# playaplaya - An Amazing Audiobook
 
 A simple, dedicated audiobook player, which keeps your place in multiple books and resumes automatically
 
